@@ -1,0 +1,15 @@
+D:\Cheats\COVID\Covid\obj\x86\Release\Covid.AboutForm.resources
+D:\Cheats\COVID\Covid\obj\x86\Release\Covid.MainForm.resources
+D:\Cheats\COVID\Covid\obj\x86\Release\Covid.NotifControl.resources
+D:\Cheats\COVID\Covid\obj\x86\Release\Covid.Properties.Resources.resources
+D:\Cheats\COVID\Covid\obj\x86\Release\Covid.Updater.resources
+D:\Cheats\COVID\Covid\obj\x86\Release\Covid.csproj.GenerateResource.cache
+D:\Cheats\COVID\Covid\obj\x86\Release\Covid.csproj.CoreCompileInputs.cache
+D:\Cheats\COVID\Covid\bin\x86\Release\Covid.exe.config
+D:\Cheats\COVID\Covid\bin\x86\Release\Covid.exe
+D:\Cheats\COVID\Covid\bin\x86\Release\Covid.pdb
+D:\Cheats\COVID\Covid\bin\x86\Release\Memory.dll
+D:\Cheats\COVID\Covid\obj\x86\Release\Covid.csprojAssemblyReference.cache
+D:\Cheats\COVID\Covid\obj\x86\Release\Covid.csproj.CopyComplete
+D:\Cheats\COVID\Covid\obj\x86\Release\Covid.exe
+D:\Cheats\COVID\Covid\obj\x86\Release\Covid.pdb
